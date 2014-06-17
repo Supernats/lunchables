@@ -17,7 +17,7 @@ development:
   encoding: unicode
   database: lunchables_development
   pool: 5
-  username: lunchables
+  username: nathanseither
   password:
 
   # Connect on a TCP socket. Omitted by default since the client uses a
@@ -43,7 +43,7 @@ test:
   encoding: unicode
   database: lunchables_test
   pool: 5
-  username: lunchables
+  username: nathanseither
   password:
 
 production:
@@ -51,5 +51,5 @@ production:
   encoding: unicode
   database: lunchables_production
   pool: 5
-  username: lunchables
+  username: nathanseither
   password:
